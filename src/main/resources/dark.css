@@ -1,0 +1,13 @@
+body {
+    background-color: #cccccc;
+    color: #006400;
+}
+
+
+.present {
+    font-weight: bold;
+}
+
+.absent {
+    font-style: italic;
+}
